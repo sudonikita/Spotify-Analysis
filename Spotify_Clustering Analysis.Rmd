@@ -5,9 +5,8 @@ title: "Cluster Analysis on Spotify Data"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-**Nikita Sankhe**
 
-**UC BANA 2019-20**
+
 
 
 ## []() {.tabset .tabset-fade .tabset-pills}
